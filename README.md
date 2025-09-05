@@ -7,8 +7,8 @@
 
 <div align="center">
   <h3>🚀 Stats & Tech Stack </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=rhuanlunz&theme=react&show_icons=true&hide_border=true&count_private=true">
   <img src="https://streak-stats.demolab.com?user=rhuanlunz&theme=react&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhuanlunz&theme=react&show_icons=true&hide_border=true&count_private=true">
 </div>
 
 
