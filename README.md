@@ -6,7 +6,6 @@
 <hr>
 
 <div align="center">
-  <h3>🚀 Stats & Tech Stack </h3>
   <img src="https://streak-stats.demolab.com?user=rhuanlunz&theme=react&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=rhuanlunz&theme=react&show_icons=true&hide_border=true&count_private=true">
 </div>
@@ -28,6 +27,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div>
-
-<hr>
-![snake gif](https://github.com/rhuanlunz/rhuanlunz/blob/output/github-contribution-grid-snake.svg)
